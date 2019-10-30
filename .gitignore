@@ -1,0 +1,12 @@
+# macOS
+.DS_STORE
+
+# node
+node_modules
+
+# Webpack
+bundle.js
+bundle.js.map
+
+# Thumbnails
+._*
